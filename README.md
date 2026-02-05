@@ -28,6 +28,8 @@ All numerical features were standardized using z-score normalization prior to cl
 - [TravelTide Jupyter Notebook](TravelTide.ipynb)
 - [Project Report and Executive Summary](reports/TravelTide_Project_Report.pdf)
 - [Tableau Public Visualization Dashboard](https://public.tableau.com/app/profile/marija.pavlova/viz/Mappe2_17702397427380/Dashboard1)
+- [From Segmentation to Experimentation: Future A/B Testing Plan](From%20Segmentation%20to%20Experimentation%20(Future%20A-B%20Testing%20Plan).pdf)
+
 
 ### Segmentation Outputs and Visuals
 - [Final CSV Dataset with Rewards Program](visuals/traveltide_final_users_rewards_program.csv)
