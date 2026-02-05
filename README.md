@@ -19,9 +19,9 @@ Key outcomes:
 
 ## Links to Files
 - [TravelTide Notebook](https://colab.research.google.com/drive/1uKo_wnUx-fGkJ7zp-MnUuiSvtUc8uJ2y?usp=drive_link)
-- [Executive Summary](https://drive.google.com/file/d/1zH2REMhhOW4CtbFRQVvXTybtBtHFQZvv/view?usp=sharing)
+- [Project Report and Executive Summary](https://drive.google.com/file/d/1zH2REMhhOW4CtbFRQVvXTybtBtHFQZvv/view?usp=sharing)
 - [Tableau Public Visualization](https://public.tableau.com/app/profile/marija.pavlova/viz/Mappe2_17702397427380/Dashboard1)
-- [Final Dataset for Tableau](visuals/traveltide_final_users_rewards_program.csv)  
+- [Final CSV Dataset with Rewards Program](visuals/traveltide_final_users_rewards_program.csv)  
 - [Segment Profile Table](visuals/segment_profile.csv)  
 - [Segment Comparison Table](visuals/segment_comparison.csv)  
 - [Elbow Method Plot](visuals/elbow_method.png)  
