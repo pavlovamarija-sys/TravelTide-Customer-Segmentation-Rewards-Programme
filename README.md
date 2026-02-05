@@ -24,12 +24,12 @@ All numerical features were standardized using z-score normalization prior to cl
 ## Links to Files
 
 - [SQL Primary Feature Engineering](sql/primary_feature_engineering.sql)
-- [User-Level Primary Features Dataset for Segmentation Analysis](Primary%20and%20Final%20csv%20files/Primary%20SQL%20Engineered%20TravelTide%20Dataset.csv.csv)
+- [User-Level Primary Features Dataset for Segmentation Analysis](Primary%20and%20Final%20csv%20files/Primary%20SQL%20Engineered%20TravelTide%20Dataset.csv)
 - [TravelTide Jupyter Notebook](TravelTide.ipynb)
 - [Final Users Rewards Program Dataset](Primary%20and%20Final%20csv%20files/traveltide_final_users_rewards_program.csv)
 - [Project Report and Executive Summary](Reports/TravelTide%20Rewards%20Program%20%E2%80%93%20Customer%20Segmentation%20Project%20Report%20and%20Executive%20Summary.pdf)
-- [Tableau Public Visualization Dashboard](https://public.tableau.com/app/profile/marija.pavlova/viz/Mappe2_17702397427380/Dashboard1)
 - [From Segmentation to Experimentation: Future A/B Testing Plan](Reports/From%20Segmentation%20to%20Experimentation%20(Future%20A-B%20Testing%20Plan).pdf)
+- [Tableau Public Visualization Dashboard](https://public.tableau.com/app/profile/marija.pavlova/viz/Mappe2_17702397427380/Dashboard1)
 - [Project Presentation (PDF)](presentation/TravelTide%20Rewards%20Program%20PPTX.pdf)
 
 
