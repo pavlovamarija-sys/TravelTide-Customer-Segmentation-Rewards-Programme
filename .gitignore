@@ -1,7 +1,19 @@
-desktop.ini
-*.gdoc
+# Docs & reports
+*.docx
+*.pdf
 
-# Python
-__pycache__/
-*.pyc
+# Data files
+*.csv
+*.xlsx
 
+# Notebooks
+*.ipynb
+
+# Images / visuals
+*.png
+*.jpg
+*.jpeg
+
+# OS / editor junk
+Thumbs.db
+.DS_Store
