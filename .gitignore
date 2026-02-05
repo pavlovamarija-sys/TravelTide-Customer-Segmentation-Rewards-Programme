@@ -1,0 +1,7 @@
+desktop.ini
+*.gdoc
+
+# Python
+__pycache__/
+*.pyc
+
